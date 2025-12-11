@@ -35,7 +35,7 @@
 
 
 
-Este repositorio contiene un laboratorio práctico que demuestra **orquestación de workflows serverless** con AWS Step Functions. El proyecto implementa un pipeline de procesamiento de imágenes que detecta, redimensiona, y almacena imágenes JPEG automáticamente cuando se suben a un bucket S3.
+Este repositorio contiene un proyecto que demuestra **orquestación de workflows serverless** con AWS Step Functions. El proyecto implementa un pipeline de procesamiento de imágenes que detecta, redimensiona, y almacena imágenes JPEG automáticamente cuando se suben a un bucket S3.
 
 
 
@@ -1307,4 +1307,5 @@ Después del deployment:
 
 
 **¡Feliz aprendizaje! 🚀**
+
 
